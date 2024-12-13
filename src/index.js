@@ -9,6 +9,9 @@ else if (d == "female"){
     alert(`you are a girl`)
 }
 
+else{
+    alert("neither male or female")
+}
 
 
 }
